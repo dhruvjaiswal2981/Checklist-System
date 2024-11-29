@@ -11,7 +11,7 @@
 ## Project Structure
 - Fill Structure
     ```bash
-        checklist-system/
+    checklist-system/
     │
     ├── backend/
     │   ├── index.js              # Entry point for the Node.js server
