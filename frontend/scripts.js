@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/evaluate";
+const API_URL = "http://localhost:3000/";
 
 async function loadResults() {
   try {
