@@ -30,7 +30,7 @@
 ## Setup Instructions
 1. Clone the Repository
     ```bash
-    git clone https://github.com/dhruvjaiswal2981/ChecklistSystem.git
+    git clone https://github.com/dhruvjaiswal2981/Checklist-System.git
     cd checklist-system
 
 2. Backend Setup
