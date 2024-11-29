@@ -97,4 +97,4 @@ Rules are stored in backend/rulesConfig.js for easy modification.
 ## Deployment
 
 - Live Demo: The application is hosted on Render.
-- Access it here: https://url-shortener-api-o6f0.onrender.com
+- Access it here: https://checklist-system-gfhq.onrender.com
