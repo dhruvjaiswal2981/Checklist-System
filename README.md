@@ -61,7 +61,7 @@
 
         ```bash
         open index.html
-    or
+        or
         ```bash
         start index.html
     (Command depends on your operating system.)
